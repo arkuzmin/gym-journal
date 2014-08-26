@@ -1,0 +1,17 @@
+
+<aliases>
+  <alias auto-logon="false" connect-at-startup="true" driver-id="-6" has-no-user-name="false">
+    <name>GymJournalDB</name>
+    <url>jdbc:mysql://localhost:3306/gym_journal_db?noDatetimeStringSync=true</url>
+    <folder-filter-expression></folder-filter-expression>
+    <name-filter-expression></name-filter-expression>
+    <schema-filter-expression></schema-filter-expression>
+    <users>
+      <user auto-commit="true" commit-on-close="true">
+        <user-name>gymadmin</user-name>
+        <password>MeilvtkGNrPGgWF+IOpaBQ==</password>
+      </user>
+    </users>
+    <default-user>gymadmin</default-user>
+  </alias>
+</aliases>

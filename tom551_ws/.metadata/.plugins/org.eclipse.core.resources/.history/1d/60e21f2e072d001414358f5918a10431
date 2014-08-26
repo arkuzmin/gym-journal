@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.relational="http:///orgomg/cwm/resource/relational.ecore">
+  <TalendMetadata:DatabaseConnection xmi:id="_XA1DkC0PEeSOz7j19IRimQ" name="GymJournalDB" id="_ITIgEC0PEeSOz7j19IRimQ" label="GymJournalDB" dataPackage="_XCLucC0PEeSOz7j19IRimQ" DatabaseType="MySQL" DriverClass="org.gjt.mm.mysql.Driver" URL="jdbc:mysql://localhost:3306/gym_journal_db?noDatetimeStringSync=true" dbVersionString="MYSQL_5" Port="3306" Username="gymadmin" Password="MeilvtkGNrPGgWF+IOpaBQ==" ServerName="localhost" DatasourceName="" FileFieldName="" SID="gym_journal_db" SqlSynthax="SQL Syntax" DbmsId="mysql_id" ProductId="MYSQL" AdditionalParams="noDatetimeStringSync=true" StandardSQL="true" SQLMode="false" UiSchema="">
+    <taggedValue xmi:id="_XA8_YC0PEeSOz7j19IRimQ" tag="Is Conn Need Reload" value="false"/>
+    <taggedValue xmi:id="_XBLB0C0PEeSOz7j19IRimQ" tag="package filter" value=""/>
+    <taggedValue xmi:id="_XBys4C0PEeSOz7j19IRimQ" tag="Status" value=""/>
+    <taggedValue xmi:id="_XBys4S0PEeSOz7j19IRimQ" tag="Version" value="0.1"/>
+    <taggedValue xmi:id="_XBys4i0PEeSOz7j19IRimQ" tag="Purpose" value=""/>
+    <taggedValue xmi:id="_XBys4y0PEeSOz7j19IRimQ" tag="Description" value=""/>
+    <taggedValue xmi:id="_XBys5C0PEeSOz7j19IRimQ" tag="Author" value=""/>
+    <taggedValue xmi:id="_XBys5S0PEeSOz7j19IRimQ" tag="otherParameter"/>
+    <taggedValue xmi:id="_XB3lYC0PEeSOz7j19IRimQ" tag="DB ProductName" value="MySQL"/>
+    <taggedValue xmi:id="_XB3lYS0PEeSOz7j19IRimQ" tag="DB ProductVersion" value="5.5.29"/>
+    <taggedValue xmi:id="_XB3lYi0PEeSOz7j19IRimQ" tag="DB IdentifierQuoteString" value="`"/>
+    <parameters xmi:id="_XA8_YS0PEeSOz7j19IRimQ" key="CONN_PARA_KEY_USERNAME" value="gymadmin"/>
+  </TalendMetadata:DatabaseConnection>
+  <orgomg.cwm.resource.relational:Catalog xmi:id="_XCLucC0PEeSOz7j19IRimQ" name="gym_journal_db" dataManager="_XA1DkC0PEeSOz7j19IRimQ"/>
+</xmi:XMI>

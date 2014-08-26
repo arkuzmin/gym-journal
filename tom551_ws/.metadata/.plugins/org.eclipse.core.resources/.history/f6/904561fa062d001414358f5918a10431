@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_XA8_Yi0PEeSOz7j19IRimQ" id="_ITIgEC0PEeSOz7j19IRimQ" label="GymJournalDB" purpose="База данных" description="База данных" creationDate="2014-08-26T13:54:31.970+0400" modificationDate="2014-08-26T13:53:22.819+0400" version="0.1" statusCode="" item="_XA8_ZC0PEeSOz7j19IRimQ" displayName="GymJournalDB">
+    <author href="../../talend.project#_sPlAoC0MEeSvEo_3BC5Qlw"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_XA8_Yy0PEeSOz7j19IRimQ" path=""/>
+  <TalendProperties:DatabaseConnectionItem xmi:id="_XA8_ZC0PEeSOz7j19IRimQ" property="_XA8_Yi0PEeSOz7j19IRimQ" state="_XA8_Yy0PEeSOz7j19IRimQ">
+    <connection href="GymJournalDB_0.1.item#_XA1DkC0PEeSOz7j19IRimQ"/>
+  </TalendProperties:DatabaseConnectionItem>
+</xmi:XMI>

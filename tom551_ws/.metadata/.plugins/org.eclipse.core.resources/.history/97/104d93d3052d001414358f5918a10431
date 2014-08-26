@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Property xmi:id="_-04H0C0MEeSvEo_3BC5Qlw" id="_-0nCEC0MEeSvEo_3BC5Qlw" label="TestJob" purpose="Тестовая джоба" description="Тестовая джоба" creationDate="2014-08-26T13:37:30.700+0400" modificationDate="2014-08-26T13:37:31.880+0400" version="0.1" statusCode="" item="_-04H0i0MEeSvEo_3BC5Qlw" displayName="TestJob">
+    <author href="../../talend.project#_sPlAoC0MEeSvEo_3BC5Qlw"/>
+  </TalendProperties:Property>
+  <TalendProperties:ItemState xmi:id="_-04H0S0MEeSvEo_3BC5Qlw" path="test"/>
+  <TalendProperties:ProcessItem xmi:id="_-04H0i0MEeSvEo_3BC5Qlw" property="_-04H0C0MEeSvEo_3BC5Qlw" state="_-04H0S0MEeSvEo_3BC5Qlw">
+    <process href="TestJob_0.1.item#/"/>
+  </TalendProperties:ProcessItem>
+</xmi:XMI>

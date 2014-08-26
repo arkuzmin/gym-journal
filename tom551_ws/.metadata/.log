@@ -1,0 +1,197 @@
+!SESSION 2014-08-26 13:34:37.592 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.6.0_38
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ru_RU
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY org.talend.platform.logging 1 0 2014-08-26 13:34:40.721
+!MESSAGE 2014-08-26 13:34:40,719 INFO  org.talend.repository.ui.login.LoginComposite  - validate updatesite...
+
+
+!ENTRY org.talend.mdm.workbench 0 0 2014-08-26 13:35:30.637
+!MESSAGE one third party library file [K:\TOM551\TOS_MDM-Studio-r118616-V5.5.1\lib\java\activation.jar] was not found, it is required for bundle [org.talend.mdm.workbench], please download it and place in [K:\TOM551\TOS_MDM-Studio-r118616-V5.5.1\lib\java]
+
+!ENTRY org.talend.mdm.workbench 0 0 2014-08-26 13:35:30.638
+!MESSAGE one third party library file [K:\TOM551\TOS_MDM-Studio-r118616-V5.5.1\lib\java\jaas.jar] was not found, it is required for bundle [org.talend.mdm.workbench], please download it and place in [K:\TOM551\TOS_MDM-Studio-r118616-V5.5.1\lib\java]
+
+!ENTRY org.talend.mdm.workbench 0 0 2014-08-26 13:35:30.638
+!MESSAGE one third party library file [K:\TOM551\TOS_MDM-Studio-r118616-V5.5.1\lib\java\jaxb-api.jar] was not found, it is required for bundle [org.talend.mdm.workbench], please download it and place in [K:\TOM551\TOS_MDM-Studio-r118616-V5.5.1\lib\java]
+
+!ENTRY org.talend.mdm.workbench 0 0 2014-08-26 13:35:30.639
+!MESSAGE one third party library file [K:\TOM551\TOS_MDM-Studio-r118616-V5.5.1\lib\java\jaxb-impl.jar] was not found, it is required for bundle [org.talend.mdm.workbench], please download it and place in [K:\TOM551\TOS_MDM-Studio-r118616-V5.5.1\lib\java]
+
+!ENTRY org.talend.mdm.workbench 0 0 2014-08-26 13:35:30.639
+!MESSAGE one third party library file [K:\TOM551\TOS_MDM-Studio-r118616-V5.5.1\lib\java\jaxb-libs.jar] was not found, it is required for bundle [org.talend.mdm.workbench], please download it and place in [K:\TOM551\TOS_MDM-Studio-r118616-V5.5.1\lib\java]
+
+!ENTRY org.talend.mdm.workbench 0 0 2014-08-26 13:35:30.640
+!MESSAGE one third party library file [K:\TOM551\TOS_MDM-Studio-r118616-V5.5.1\lib\java\jaxb-xjc.jar] was not found, it is required for bundle [org.talend.mdm.workbench], please download it and place in [K:\TOM551\TOS_MDM-Studio-r118616-V5.5.1\lib\java]
+
+!ENTRY org.talend.mdm.workbench 0 0 2014-08-26 13:35:30.640
+!MESSAGE one third party library file [K:\TOM551\TOS_MDM-Studio-r118616-V5.5.1\lib\java\jax-qname.jar] was not found, it is required for bundle [org.talend.mdm.workbench], please download it and place in [K:\TOM551\TOS_MDM-Studio-r118616-V5.5.1\lib\java]
+
+!ENTRY org.talend.mdm.workbench 0 0 2014-08-26 13:35:30.641
+!MESSAGE one third party library file [K:\TOM551\TOS_MDM-Studio-r118616-V5.5.1\lib\java\jaxrpc-api.jar] was not found, it is required for bundle [org.talend.mdm.workbench], please download it and place in [K:\TOM551\TOS_MDM-Studio-r118616-V5.5.1\lib\java]
+
+!ENTRY org.talend.mdm.workbench 0 0 2014-08-26 13:35:30.641
+!MESSAGE one third party library file [K:\TOM551\TOS_MDM-Studio-r118616-V5.5.1\lib\java\jaxrpc-impl.jar] was not found, it is required for bundle [org.talend.mdm.workbench], please download it and place in [K:\TOM551\TOS_MDM-Studio-r118616-V5.5.1\lib\java]
+
+!ENTRY org.talend.mdm.workbench 0 0 2014-08-26 13:35:30.641
+!MESSAGE one third party library file [K:\TOM551\TOS_MDM-Studio-r118616-V5.5.1\lib\java\jaxrpc-spi.jar] was not found, it is required for bundle [org.talend.mdm.workbench], please download it and place in [K:\TOM551\TOS_MDM-Studio-r118616-V5.5.1\lib\java]
+
+!ENTRY org.talend.mdm.workbench 0 0 2014-08-26 13:35:30.642
+!MESSAGE one third party library file [K:\TOM551\TOS_MDM-Studio-r118616-V5.5.1\lib\java\jta-spec1_0_1.jar] was not found, it is required for bundle [org.talend.mdm.workbench], please download it and place in [K:\TOM551\TOS_MDM-Studio-r118616-V5.5.1\lib\java]
+
+!ENTRY org.talend.mdm.workbench 0 0 2014-08-26 13:35:30.642
+!MESSAGE one third party library file [K:\TOM551\TOS_MDM-Studio-r118616-V5.5.1\lib\java\mail.jar] was not found, it is required for bundle [org.talend.mdm.workbench], please download it and place in [K:\TOM551\TOS_MDM-Studio-r118616-V5.5.1\lib\java]
+
+!ENTRY org.talend.mdm.workbench 0 0 2014-08-26 13:35:30.643
+!MESSAGE one third party library file [K:\TOM551\TOS_MDM-Studio-r118616-V5.5.1\lib\java\namespace.jar] was not found, it is required for bundle [org.talend.mdm.workbench], please download it and place in [K:\TOM551\TOS_MDM-Studio-r118616-V5.5.1\lib\java]
+
+!ENTRY org.talend.mdm.workbench 0 0 2014-08-26 13:35:30.643
+!MESSAGE one third party library file [K:\TOM551\TOS_MDM-Studio-r118616-V5.5.1\lib\java\saaj-api.jar] was not found, it is required for bundle [org.talend.mdm.workbench], please download it and place in [K:\TOM551\TOS_MDM-Studio-r118616-V5.5.1\lib\java]
+
+!ENTRY org.talend.mdm.workbench 0 0 2014-08-26 13:35:30.644
+!MESSAGE one third party library file [K:\TOM551\TOS_MDM-Studio-r118616-V5.5.1\lib\java\saaj-impl.jar] was not found, it is required for bundle [org.talend.mdm.workbench], please download it and place in [K:\TOM551\TOS_MDM-Studio-r118616-V5.5.1\lib\java]
+
+!ENTRY org.talend.mdm.workbench 0 0 2014-08-26 13:35:30.644
+!MESSAGE one third party library file [K:\TOM551\TOS_MDM-Studio-r118616-V5.5.1\lib\java\xsdlib.jar] was not found, it is required for bundle [org.talend.mdm.workbench], please download it and place in [K:\TOM551\TOS_MDM-Studio-r118616-V5.5.1\lib\java]
+
+!ENTRY org.talend.platform.logging 1 0 2014-08-26 13:35:32.896
+!MESSAGE 2014-08-26 13:35:32,896 INFO  org.talend.core.repository.model.ProxyRepositoryFactory  - test@talend.com logged on gym_journal
+
+
+!ENTRY org.eclipse.ui 2 0 2014-08-26 13:35:35.748
+!MESSAGE Warnings while parsing the key bindings from the 'org.eclipse.ui.commands' extension point
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-08-26 13:35:35.748
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.xtext.ui', id='org.eclipse.xtext.ui.editor.outline.QuickOutline'
+
+!ENTRY org.talend.platform.logging 1 0 2014-08-26 13:35:36.994
+!MESSAGE 2014-08-26 13:35:36,994 INFO  org.talend.core.repository.ReadOnlyProjectConfirm  - ReadOnly confirm
+
+
+!ENTRY org.eclipse.jface 2 0 2014-08-26 13:35:45.286
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2014-08-26 13:35:45.286
+!MESSAGE A conflict occurred for CTRL+A:
+Binding(CTRL+A,
+	ParameterizedCommand(Command(org.eclipse.ui.edit.selectAll,Выбрать все,
+		Выбрать все,
+		Category(org.eclipse.ui.category.edit,Правка,null,true),
+		ActionHandler(RetargetAction(selectAll)),
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.dialogAndWindow,,,system)
+Binding(CTRL+A,
+	ParameterizedCommand(Command(org.eclipse.ui.edit.selectAll,Выбрать все,
+		Выбрать все,
+		Category(org.eclipse.ui.category.edit,Правка,null,true),
+		ActionHandler(RetargetAction(selectAll)),
+		,,true),null),
+	org.talend.core.scheme,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+A,
+	ParameterizedCommand(Command(org.eclipse.ui.edit.selectAll,Выбрать все,
+		Выбрать все,
+		Category(org.eclipse.ui.category.edit,Правка,null,true),
+		ActionHandler(RetargetAction(selectAll)),
+		,,true),null),
+	org.talend.core.scheme,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+A,
+	ParameterizedCommand(Command(org.eclipse.ui.edit.selectAll,Выбрать все,
+		Выбрать все,
+		Category(org.eclipse.ui.category.edit,Правка,null,true),
+		ActionHandler(RetargetAction(selectAll)),
+		,,true),null),
+	org.talend.core.scheme,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.talend.designer.webservice 0 0 2014-08-26 13:35:47.244
+!MESSAGE one third party library file [K:\TOM551\TOS_MDM-Studio-r118616-V5.5.1\lib\java\jaxrpc.jar] was not found, it is required for bundle [org.talend.designer.webservice], please download it and place in [K:\TOM551\TOS_MDM-Studio-r118616-V5.5.1\lib\java]
+!SESSION 2014-08-26 13:43:13.367 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=1.6.0_38
+java.vendor=Sun Microsystems Inc.
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_RU
+Command-line arguments:  -os win32 -ws win32 -arch x86_64
+
+!ENTRY org.talend.platform.logging 1 0 2014-08-26 13:43:27.935
+!MESSAGE 2014-08-26 13:43:27,932 INFO  org.talend.repository.ui.login.LoginComposite  - validate updatesite...
+
+
+!ENTRY org.talend.mdm.workbench 0 0 2014-08-26 13:43:42.527
+!MESSAGE one third party library file [K:\TOM551\TOS_MDM-Studio-r118616-V5.5.1\lib\java\activation.jar] was not found, it is required for bundle [org.talend.mdm.workbench], please download it and place in [K:\TOM551\TOS_MDM-Studio-r118616-V5.5.1\lib\java]
+
+!ENTRY org.talend.mdm.workbench 0 0 2014-08-26 13:43:42.528
+!MESSAGE one third party library file [K:\TOM551\TOS_MDM-Studio-r118616-V5.5.1\lib\java\jaas.jar] was not found, it is required for bundle [org.talend.mdm.workbench], please download it and place in [K:\TOM551\TOS_MDM-Studio-r118616-V5.5.1\lib\java]
+
+!ENTRY org.talend.mdm.workbench 0 0 2014-08-26 13:43:42.528
+!MESSAGE one third party library file [K:\TOM551\TOS_MDM-Studio-r118616-V5.5.1\lib\java\jaxb-api.jar] was not found, it is required for bundle [org.talend.mdm.workbench], please download it and place in [K:\TOM551\TOS_MDM-Studio-r118616-V5.5.1\lib\java]
+
+!ENTRY org.talend.mdm.workbench 0 0 2014-08-26 13:43:42.529
+!MESSAGE one third party library file [K:\TOM551\TOS_MDM-Studio-r118616-V5.5.1\lib\java\jaxb-impl.jar] was not found, it is required for bundle [org.talend.mdm.workbench], please download it and place in [K:\TOM551\TOS_MDM-Studio-r118616-V5.5.1\lib\java]
+
+!ENTRY org.talend.mdm.workbench 0 0 2014-08-26 13:43:42.529
+!MESSAGE one third party library file [K:\TOM551\TOS_MDM-Studio-r118616-V5.5.1\lib\java\jaxb-libs.jar] was not found, it is required for bundle [org.talend.mdm.workbench], please download it and place in [K:\TOM551\TOS_MDM-Studio-r118616-V5.5.1\lib\java]
+
+!ENTRY org.talend.mdm.workbench 0 0 2014-08-26 13:43:42.529
+!MESSAGE one third party library file [K:\TOM551\TOS_MDM-Studio-r118616-V5.5.1\lib\java\jaxb-xjc.jar] was not found, it is required for bundle [org.talend.mdm.workbench], please download it and place in [K:\TOM551\TOS_MDM-Studio-r118616-V5.5.1\lib\java]
+
+!ENTRY org.talend.mdm.workbench 0 0 2014-08-26 13:43:42.530
+!MESSAGE one third party library file [K:\TOM551\TOS_MDM-Studio-r118616-V5.5.1\lib\java\jax-qname.jar] was not found, it is required for bundle [org.talend.mdm.workbench], please download it and place in [K:\TOM551\TOS_MDM-Studio-r118616-V5.5.1\lib\java]
+
+!ENTRY org.talend.mdm.workbench 0 0 2014-08-26 13:43:42.530
+!MESSAGE one third party library file [K:\TOM551\TOS_MDM-Studio-r118616-V5.5.1\lib\java\jaxrpc-api.jar] was not found, it is required for bundle [org.talend.mdm.workbench], please download it and place in [K:\TOM551\TOS_MDM-Studio-r118616-V5.5.1\lib\java]
+
+!ENTRY org.talend.mdm.workbench 0 0 2014-08-26 13:43:42.531
+!MESSAGE one third party library file [K:\TOM551\TOS_MDM-Studio-r118616-V5.5.1\lib\java\jaxrpc-impl.jar] was not found, it is required for bundle [org.talend.mdm.workbench], please download it and place in [K:\TOM551\TOS_MDM-Studio-r118616-V5.5.1\lib\java]
+
+!ENTRY org.talend.mdm.workbench 0 0 2014-08-26 13:43:42.531
+!MESSAGE one third party library file [K:\TOM551\TOS_MDM-Studio-r118616-V5.5.1\lib\java\jaxrpc-spi.jar] was not found, it is required for bundle [org.talend.mdm.workbench], please download it and place in [K:\TOM551\TOS_MDM-Studio-r118616-V5.5.1\lib\java]
+
+!ENTRY org.talend.mdm.workbench 0 0 2014-08-26 13:43:42.531
+!MESSAGE one third party library file [K:\TOM551\TOS_MDM-Studio-r118616-V5.5.1\lib\java\jta-spec1_0_1.jar] was not found, it is required for bundle [org.talend.mdm.workbench], please download it and place in [K:\TOM551\TOS_MDM-Studio-r118616-V5.5.1\lib\java]
+
+!ENTRY org.talend.mdm.workbench 0 0 2014-08-26 13:43:42.532
+!MESSAGE one third party library file [K:\TOM551\TOS_MDM-Studio-r118616-V5.5.1\lib\java\mail.jar] was not found, it is required for bundle [org.talend.mdm.workbench], please download it and place in [K:\TOM551\TOS_MDM-Studio-r118616-V5.5.1\lib\java]
+
+!ENTRY org.talend.mdm.workbench 0 0 2014-08-26 13:43:42.532
+!MESSAGE one third party library file [K:\TOM551\TOS_MDM-Studio-r118616-V5.5.1\lib\java\namespace.jar] was not found, it is required for bundle [org.talend.mdm.workbench], please download it and place in [K:\TOM551\TOS_MDM-Studio-r118616-V5.5.1\lib\java]
+
+!ENTRY org.talend.mdm.workbench 0 0 2014-08-26 13:43:42.533
+!MESSAGE one third party library file [K:\TOM551\TOS_MDM-Studio-r118616-V5.5.1\lib\java\saaj-api.jar] was not found, it is required for bundle [org.talend.mdm.workbench], please download it and place in [K:\TOM551\TOS_MDM-Studio-r118616-V5.5.1\lib\java]
+
+!ENTRY org.talend.mdm.workbench 0 0 2014-08-26 13:43:42.533
+!MESSAGE one third party library file [K:\TOM551\TOS_MDM-Studio-r118616-V5.5.1\lib\java\saaj-impl.jar] was not found, it is required for bundle [org.talend.mdm.workbench], please download it and place in [K:\TOM551\TOS_MDM-Studio-r118616-V5.5.1\lib\java]
+
+!ENTRY org.talend.mdm.workbench 0 0 2014-08-26 13:43:42.534
+!MESSAGE one third party library file [K:\TOM551\TOS_MDM-Studio-r118616-V5.5.1\lib\java\xsdlib.jar] was not found, it is required for bundle [org.talend.mdm.workbench], please download it and place in [K:\TOM551\TOS_MDM-Studio-r118616-V5.5.1\lib\java]
+
+!ENTRY org.talend.platform.logging 1 0 2014-08-26 13:43:44.566
+!MESSAGE 2014-08-26 13:43:44,565 INFO  org.talend.core.repository.model.ProxyRepositoryFactory  - test@talend.com logged on gym_journal
+
+
+!ENTRY org.eclipse.ui 2 0 2014-08-26 13:43:45.324
+!MESSAGE Warnings while parsing the key bindings from the 'org.eclipse.ui.commands' extension point
+!SUBENTRY 1 org.eclipse.ui 2 0 2014-08-26 13:43:45.324
+!MESSAGE Cannot bind to an undefined command: plug-in='org.eclipse.xtext.ui', id='org.eclipse.xtext.ui.editor.outline.QuickOutline'
+
+!ENTRY org.talend.platform.logging 1 0 2014-08-26 13:43:45.886
+!MESSAGE 2014-08-26 13:43:45,885 INFO  org.talend.core.repository.ReadOnlyProjectConfirm  - ReadOnly confirm
+
+
+!ENTRY org.talend.designer.webservice 0 0 2014-08-26 13:45:06.116
+!MESSAGE one third party library file [K:\TOM551\TOS_MDM-Studio-r118616-V5.5.1\lib\java\jaxrpc.jar] was not found, it is required for bundle [org.talend.designer.webservice], please download it and place in [K:\TOM551\TOS_MDM-Studio-r118616-V5.5.1\lib\java]
+
+!ENTRY org.talend.platform.logging 1 0 2014-08-26 13:56:43.475
+!MESSAGE 2014-08-26 13:56:43,475 INFO  org.talend.designer.core.runprocess.Processor  - Command line: C:/Program Files/Java/jdk1.6.0_38/jre/bin/java.exe -Xms256M -Xmx1024M -Dfile.encoding=UTF-8 -cp K:/github/gym-journal/tom551_ws/.Java/lib/mysql-connector-java-5.1.30-bin.jar;K:/github/gym-journal/tom551_ws/.Java/lib/talendcsv.jar;.;K:/github/gym-journal/tom551_ws/.Java/classes;K:/github/gym-journal/tom551_ws/.Java/lib; gym_journal.mock_job_for_guess_schema_0_1.Mock_job_for_Guess_schema --context=Default %*
+
+
+!ENTRY org.talend.platform.logging 1 0 2014-08-26 13:57:41.599
+!MESSAGE 2014-08-26 13:57:41,599 INFO  org.talend.designer.core.runprocess.Processor  - Command line: C:/Program Files/Java/jdk1.6.0_38/jre/bin/java.exe -Xms256M -Xmx1024M -Dfile.encoding=UTF-8 -cp K:/github/gym-journal/tom551_ws/.Java/lib/dom4j-1.6.1.jar;K:/github/gym-journal/tom551_ws/.Java/lib/mysql-connector-java-5.1.30-bin.jar;.;K:/github/gym-journal/tom551_ws/.Java/classes;K:/github/gym-journal/tom551_ws/.Java/lib; gym_journal.testjob_0_1.TestJob --context=Default --stat_port=3839 %*
+
+
+!ENTRY org.talend.platform.logging 1 0 2014-08-26 13:57:59.699
+!MESSAGE 2014-08-26 13:57:59,698 INFO  org.talend.designer.core.runprocess.Processor  - Command line: C:/Program Files/Java/jdk1.6.0_38/jre/bin/java.exe -Xms256M -Xmx1024M -Dfile.encoding=UTF-8 -cp K:/github/gym-journal/tom551_ws/.Java/lib/dom4j-1.6.1.jar;K:/github/gym-journal/tom551_ws/.Java/lib/mysql-connector-java-5.1.30-bin.jar;.;K:/github/gym-journal/tom551_ws/.Java/classes;K:/github/gym-journal/tom551_ws/.Java/lib; gym_journal.testjob_0_1.TestJob --context=Default --stat_port=3789 %*
+
